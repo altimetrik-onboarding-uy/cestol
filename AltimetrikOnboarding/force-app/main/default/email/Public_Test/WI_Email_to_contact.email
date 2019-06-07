@@ -1,0 +1,15 @@
+Hello {!Work_Item__c.Assigned_To__c}, </br>
+</br>
+The Work Item {!Work_Item__c.Name} has been assigned to you. </br>
+</br>
+Please review its details and follow the link to open it: </br>
+</br>
+Title:</br>
+{!Work_Item__c.Title__c} </br>
+</br>
+Description:</br>
+{!Work_Item__c.Description__c} </br>
+</br>
+<a href="https://cestol-altimetrik-dev-ed.my.salesforce.com/lightning/r/Work_Item__c/{!Work_Item__c.Id}/view" target="_blank">Open the Work Item record on Salesforce.</a> </br>
+</br>
+Regards.
