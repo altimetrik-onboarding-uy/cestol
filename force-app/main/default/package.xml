@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WorkManager</fullName>
+    <types>
+        <members>Work_Item__c.Work_Item_Compact</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
+        <members>Work_Manager</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Account.Active__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <members>Work_Item__c.Assigned_To__c</members>
+        <members>Work_Item__c.Description__c</members>
+        <members>Work_Item__c.Difficulty_Level__c</members>
+        <members>Work_Item__c.End_Date__c</members>
+        <members>Work_Item__c.Estimated_Resolution_Date__c</members>
+        <members>Work_Item__c.Start_Date__c</members>
+        <members>Work_Item__c.Status__c</members>
+        <members>Work_Item__c.Title__c</members>
+        <members>Work_Item__c.Type__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Work_Item__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Work_Item__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Public_Test</members>
+        <members>Public_Test/WI_Email_to_contact</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Work_Item_Record_Page</members>
+        <members>Work_Manager_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Work_Item_Page_Layout_Assignment</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Work_Item__c-Work Item Action</members>
+        <members>Work_Item__c-Work Item Default</members>
+        <members>Work_Item__c-Work Item Fix</members>
+        <members>Work_Item__c-Work Item Idea</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Work_Item__c.All</members>
+        <members>Work_Item__c.Standard</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Work Manager Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Work_Item__c.Action_Work_Item</members>
+        <members>Work_Item__c.Fix_Work_Item</members>
+        <members>Work_Item__c.Idea_Work_Item</members>
+        <members>Work_Item__c.Work_Item</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>WorkManagerPackageFolder</members>
+        <members>WorkManagerPackageFolder/ContactsDoneItemsReport</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>Work_Item__c.Type_field_after_creation_lock</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
+        <members>Work_Item__c.WI_to_contact_email_alert</members>
+        <name>WorkflowAlert</name>
+    </types>
+    <types>
+        <members>Work_Item__c.WI_End_Date</members>
+        <members>Work_Item__c.WI_Start_Date</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>Work_Item__c.WI Contact Assigned</members>
+        <members>Work_Item__c.WI End Date</members>
+        <members>Work_Item__c.WI Start Date</members>
+        <name>WorkflowRule</name>
+    </types>
+    <version>45.0</version>
+</Package>
