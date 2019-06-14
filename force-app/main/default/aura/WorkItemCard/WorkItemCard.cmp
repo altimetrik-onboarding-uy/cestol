@@ -1,0 +1,18 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId"
+                access="global">
+    <aura:attribute name="iconType" type="String"/>
+    <aura:attribute name="cardStatus" type="String"/>
+    <aura:attribute name="workItem" type="Work_Item__c"/>
+    
+    <aura:handler name="render" value="{!this}" action="{!c.workIcon}"/>
+    
+    
+    <lightning:card class="slds-p-horizontal_small" iconName="{!v.iconType}" title="{!v.workItem.Name}">
+        <lightning:formattedText class="slds-p-horizontal_small" value="Title: "/>
+        <lightning:button variant="base" label="{!v.workItem.Title__c}" title="Edit Record" onclick="{!c.openRecord}"/>
+        <br/>
+        <lightning:formattedText class="slds-p-horizontal_small" value="Difficulty Level: "/>
+        <lightning:formattedText value="{!v.workItem.Difficulty_Level__c}"></lightning:formattedText>
+    </lightning:card>
+    
+</aura:component>

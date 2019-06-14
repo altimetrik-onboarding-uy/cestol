@@ -19,6 +19,7 @@
     <label>Work Manager</label>
     <navType>Standard</navType>
     <tabs>Work_Item__c</tabs>
+    <tabs>Work_Item_Panel</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
     <uiType>Lightning</uiType>
