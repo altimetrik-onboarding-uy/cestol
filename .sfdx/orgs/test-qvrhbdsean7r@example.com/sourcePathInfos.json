@@ -32,14 +32,14 @@
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1560459493680,
-            "changeTime": 1560459493680,
-            "contentHash": "f67c6e8f667c26400df9103974452194d04d1102",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1560774243345,
+            "changeTime": 1560774243345,
+            "contentHash": "b2133487049a45f7ffa29dd3248215c0c2b85ffe"
         }
     ],
     [
@@ -1029,14 +1029,14 @@
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemBundle\\WorkItemBundle.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemBundle\\WorkItemBundle.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 707,
             "modifiedTime": 1560538272824,
             "changeTime": 1560538272824,
-            "contentHash": "3f63d84f6681a52f0c350ac1bedb3422d10c6146"
+            "contentHash": "3f63d84f6681a52f0c350ac1bedb3422d10c6146",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1110,7 +1110,7 @@
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemBundle",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1560459493675,
+            "modifiedTime": 1560538272824,
             "changeTime": 1560358778142,
             "contentHash": "ca2d64179a2e7d4178d33e86d7650a9d43641f5c",
             "isMetadataFile": false,
@@ -1159,40 +1159,40 @@
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 544,
             "modifiedTime": 1560538272813,
             "changeTime": 1560538272813,
-            "contentHash": "402ac579c7bff13df7717f3d152ec2f1a360c62d"
+            "contentHash": "402ac579c7bff13df7717f3d152ec2f1a360c62d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumn.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumn.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 769,
             "modifiedTime": 1560538272814,
             "changeTime": 1560538272814,
-            "contentHash": "5ddbfcb1ba8500927be4bb7306dd68a6f13fad4d"
+            "contentHash": "5ddbfcb1ba8500927be4bb7306dd68a6f13fad4d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 110,
             "modifiedTime": 1560538272816,
             "changeTime": 1560538272816,
-            "contentHash": "5e50ad1f5f48d9ed1b8b190acedc5866bd37faff"
+            "contentHash": "5e50ad1f5f48d9ed1b8b190acedc5866bd37faff",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1211,27 +1211,27 @@
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCardController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCardController.js",
             "isDirectory": false,
+            "size": 739,
+            "modifiedTime": 1560542194612,
+            "changeTime": 1560542194612,
+            "contentHash": "21947d97fbbad460aa84a0be8a5ca36b205bcd39",
             "isMetadataFile": false,
-            "size": 1110,
-            "modifiedTime": 1560538272821,
-            "changeTime": 1560538272821,
-            "contentHash": "fb08168678a8bf5443aaeacfb5dab8bb0b9a01a0"
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCard.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCard.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 980,
             "modifiedTime": 1560538272822,
             "changeTime": 1560538272822,
-            "contentHash": "2bc522437d803aed688a1f884de2fd2a8013a3e1"
+            "contentHash": "2bc522437d803aed688a1f884de2fd2a8013a3e1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1250,14 +1250,14 @@
     [
         "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\classes\\WorkItemPanelController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\classes\\WorkItemPanelController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 444,
             "modifiedTime": 1560538272827,
             "changeTime": 1560538272827,
-            "contentHash": "93da61586142ab30d4ca8224c8df9521c42ce3e4"
+            "contentHash": "93da61586142ab30d4ca8224c8df9521c42ce3e4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1266,7 +1266,7 @@
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemColumn",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1560459493666,
+            "modifiedTime": 1560538272816,
             "changeTime": 1560459493666,
             "contentHash": "c7123e5cbe7a4dab1592f4847238b64e41a0ca09",
             "isMetadataFile": false,
@@ -1279,7 +1279,7 @@
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\aura\\WorkItemCard",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1560459493672,
+            "modifiedTime": 1560542194612,
             "changeTime": 1560459493672,
             "contentHash": "cb138eb80a75e5a16981aa731941c3695238ec47",
             "isMetadataFile": false,
@@ -1305,11 +1305,37 @@
             "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1560459493682,
+            "modifiedTime": 1560538272827,
             "changeTime": 1560459493682,
             "contentHash": "5fc9980fc19007e308148698e1e2c6adaf601cc8",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2002,
+            "modifiedTime": 1560774243349,
+            "changeTime": 1560774243349,
+            "contentHash": "7da08b8e75f628bda64c44c1416f7b1981620718"
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\appMenus",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\cestol\\WorkManager\\force-app\\main\\default\\appMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1560774243348,
+            "changeTime": 1560774243348,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d"
         }
     ]
 ]

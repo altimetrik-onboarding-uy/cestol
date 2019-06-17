@@ -21,15 +21,4 @@
         });
         editRecordEvent.fire();
     },
-    /*renderStatus : function (component, event, helper){
-        var cStat = component.get("v.cardStatus");
-        var wStat = component.get("v.workItem.Status__c");
-        var cDate = component.get("v.workItem.CreatedDate");
-        
-        if (cStat == wStat && cDate+30>Today()){
-            return true;
-        }else{
-            return null;
-        }
-    },*/
 })
