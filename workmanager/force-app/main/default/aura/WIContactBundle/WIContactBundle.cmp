@@ -1,0 +1,27 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" 
+                access="global"
+                controller="WorkItemPanelController">
+    
+    <aura:attribute name="workItems" type="Work_Item__c[]" />
+    
+    
+    <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
+    
+    <lightning:card class="slds-card" title="Assigned Work Items:">
+        <div>
+            <aura:if isTrue="{!not(empty(v.workItems))}">
+                <aura:iteration items="{!v.workItems}" var="workItem">
+                    <c:WIContactCard workItem="{!workItem}"/>
+                </aura:iteration>
+                <aura:set attribute="else">
+                    <div class="slds-m-left_x-small slds-grid slds-wrap">
+                        <p>There are no open Work Items currently assigned to this contact.</p>
+                    </div>
+                </aura:set>
+            </aura:if>
+            
+        </div>
+    </lightning:card>
+    
+    
+</aura:component>

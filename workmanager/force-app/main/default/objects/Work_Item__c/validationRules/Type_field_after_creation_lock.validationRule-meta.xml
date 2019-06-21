@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Type_field_after_creation_lock</fullName>
+    <active>true</active>
+    <errorConditionFormula>ISCHANGED(Type__c)</errorConditionFormula>
+    <errorMessage>Please do not change the &quot;Type&quot; field. Seriously.</errorMessage>
+</ValidationRule>

@@ -1,0 +1,20 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId"
+                access="global">
+    <aura:attribute name="iconType" type="String"/>
+    <aura:attribute name="cardStatus" type="String"/>
+    <aura:attribute name="workItem" type="Work_Item__c"/>
+    
+    <aura:handler name="render" value="{!this}" action="{!c.workIcon}"/>
+    
+    <lightning:card iconName="{!v.iconType}" >
+        <aura:set attribute="title">
+            <lightning:button variant="base" label="{!v.workItem.Title__c}" title="Edit Record" onclick="{!c.editRecord}"/>        
+        </aura:set>
+        
+        <div class="slds-m-left_x-small slds-grid slds-wrap">
+            <lightning:badge label="{!v.workItem.Name}" class="slds-badge_lightest slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small"/>
+            <lightning:badge label="{!'Due By: '+v.workItem.Estimated_Date__c}" class="slds-badge_lightest slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small"/>
+            <lightning:badge label="{!'Assigned to: '+v.workItem.Assigned_To__r.Name}" class="slds-badge_lightest slds-box slds-box_x-small slds-text-align_center slds-m-around_x-small"/>
+        </div>
+    </lightning:card>
+</aura:component>
