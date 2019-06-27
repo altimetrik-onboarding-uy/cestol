@@ -1,0 +1,18 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId"
+                access="global">
+    
+    <div class="slds-grid slds-gutters">
+        <div class="slds-col slds-size_1-of-4">
+            <c:WorkItemColumn columnStatus="New"/>
+        </div>
+        <div class="slds-col slds-size_1-of-4">
+            <c:WorkItemColumn columnStatus="Ready"/>
+        </div>
+        <div class="slds-col slds-size_1-of-4">
+            <c:WorkItemColumn columnStatus="In Progress"/>
+        </div>
+        <div class="slds-col slds-size_1-of-4">
+            <c:WorkItemColumn columnStatus="Done"/>
+        </div>
+    </div>
+</aura:component>

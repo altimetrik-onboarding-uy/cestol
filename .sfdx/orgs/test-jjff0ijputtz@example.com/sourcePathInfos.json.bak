@@ -1,0 +1,2087 @@
+[
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336934,
+            "changeTime": 1561150893753,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336934,
+            "changeTime": 1561150858433,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337060,
+            "changeTime": 1561150858433,
+            "contentHash": "b2133487049a45f7ffa29dd3248215c0c2b85ffe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336936,
+            "changeTime": 1561150858418,
+            "contentHash": "597a6eea77c58802b9c10159cf1223f853064d7d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\applications\\Work_Manager.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\applications\\Work_Manager.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1153,
+            "modifiedTime": 1561149336937,
+            "changeTime": 1561150858418,
+            "contentHash": "196623d9ab14fa31928346f18ca85ff6c52f4c9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\appMenus",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\appMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336935,
+            "changeTime": 1561150858418,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2069,
+            "modifiedTime": 1561149336935,
+            "changeTime": 1561150858418,
+            "contentHash": "04b1956c20a5c70fbb96947faf4bc5f65a06b3ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336950,
+            "changeTime": 1561150858421,
+            "contentHash": "87fcaea03368145e4105c916539f5531842e23de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336940,
+            "changeTime": 1561150858419,
+            "contentHash": "2b8239cd4406c8af8015fe40853648e07837039b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundle.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundle.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1073,
+            "modifiedTime": 1561149336938,
+            "changeTime": 1561150858419,
+            "contentHash": "144587c5ce191e84b30d48c3a74576b2713f1d91",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundle.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundle.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1561149336939,
+            "changeTime": 1561150858419,
+            "contentHash": "fd7bd3e51c70c1f8b681df4b4fb2a867b5c3478e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundleController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundleController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 115,
+            "modifiedTime": 1561149336940,
+            "changeTime": 1561150858419,
+            "contentHash": "dc10bbbcc66f3b0e5f4b0a09dc9525323f5705d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundleHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactBundle\\WIContactBundleHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 560,
+            "modifiedTime": 1561149336941,
+            "changeTime": 1561150858419,
+            "contentHash": "7f19d70b9feff46016ad4a958abad50fd307bae6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336943,
+            "changeTime": 1561150858420,
+            "contentHash": "54a08ebd7a2536012b4b93902eb365c59b8d54df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard\\WIContactCard.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard\\WIContactCard.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1419,
+            "modifiedTime": 1561149336943,
+            "changeTime": 1561150858419,
+            "contentHash": "15abb7ac11e23546b61fd71c04ccb0ecaed141fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard\\WIContactCard.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard\\WIContactCard.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1561149336943,
+            "changeTime": 1561150858419,
+            "contentHash": "fd7bd3e51c70c1f8b681df4b4fb2a867b5c3478e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard\\WIContactCardController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WIContactCard\\WIContactCardController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1012,
+            "modifiedTime": 1561149336944,
+            "changeTime": 1561150858420,
+            "contentHash": "0dc78b674d2cd328bed0fc7aa0119bb0e74d7097",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemBundle",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemBundle",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336946,
+            "changeTime": 1561150858420,
+            "contentHash": "ca2d64179a2e7d4178d33e86d7650a9d43641f5c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemBundle\\WorkItemBundle.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemBundle\\WorkItemBundle.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 724,
+            "modifiedTime": 1561149336946,
+            "changeTime": 1561150858420,
+            "contentHash": "d4a321889e26ec44713a345917af20820bdc7d10",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemBundle\\WorkItemBundle.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemBundle\\WorkItemBundle.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1561149336946,
+            "changeTime": 1561150858420,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336949,
+            "changeTime": 1561150858420,
+            "contentHash": "cb138eb80a75e5a16981aa731941c3695238ec47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCard.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCard.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1319,
+            "modifiedTime": 1561149336948,
+            "changeTime": 1561150858420,
+            "contentHash": "878e0076b8a4c8408e028462e750f02674fa1776",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCard.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCard.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1561149336949,
+            "changeTime": 1561150858420,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCardController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemCard\\WorkItemCardController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1002,
+            "modifiedTime": 1561149336950,
+            "changeTime": 1561150858420,
+            "contentHash": "da3a9af1dfb267b58538561f35ec44cf5c2d1266",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336953,
+            "changeTime": 1561150858421,
+            "contentHash": "c7123e5cbe7a4dab1592f4847238b64e41a0ca09",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumn.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumn.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 785,
+            "modifiedTime": 1561149336951,
+            "changeTime": 1561150858421,
+            "contentHash": "0732371c49f3d43666599fdef261c98f0cac56f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumn.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumn.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1561149336952,
+            "changeTime": 1561150858421,
+            "contentHash": "2642f0c28f8665e921e1730ea166c27d1c7eb75d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 114,
+            "modifiedTime": 1561149336953,
+            "changeTime": 1561150858421,
+            "contentHash": "3cde0fa367657dca59870ec9a097f2058d7b2b43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\aura\\WorkItemColumn\\WorkItemColumnHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 562,
+            "modifiedTime": 1561149336954,
+            "changeTime": 1561150858421,
+            "contentHash": "817573579dad874a6e4cb975ff1f493d4a82ed8f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336962,
+            "changeTime": 1561150858422,
+            "contentHash": "aeb6bf16174dd21c61e9c741a963d1a7476c44f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueBatch.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueBatch.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1825,
+            "modifiedTime": 1561149336956,
+            "changeTime": 1561150858421,
+            "contentHash": "9db84e98e528d504e7c04e29f48b86ccd86efdff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueBatch.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueBatch.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1561149336957,
+            "changeTime": 1561150858421,
+            "contentHash": "28f7346530a48fd24372c2bfd8924a042e1cca16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueScheduler.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueScheduler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 220,
+            "modifiedTime": 1561149336957,
+            "changeTime": 1561150858421,
+            "contentHash": "34181f911d12ab534b1389a8155922a82334a3e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueScheduler.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueScheduler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1561149336958,
+            "changeTime": 1561150858421,
+            "contentHash": "28f7346530a48fd24372c2bfd8924a042e1cca16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueWIEmailManager.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueWIEmailManager.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 504,
+            "modifiedTime": 1561149336959,
+            "changeTime": 1561150858421,
+            "contentHash": "358a761840f30a3c288546c9c55520fde50398c5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueWIEmailManager.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\OverdueWIEmailManager.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1561149336959,
+            "changeTime": 1561150858422,
+            "contentHash": "28f7346530a48fd24372c2bfd8924a042e1cca16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\testOverdue.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\testOverdue.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1955,
+            "modifiedTime": 1561149336962,
+            "changeTime": 1561150858422,
+            "contentHash": "c199fee3d848be201a80772bf720a033c864312d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\testOverdue.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\testOverdue.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1561149336962,
+            "changeTime": 1561150858422,
+            "contentHash": "28f7346530a48fd24372c2bfd8924a042e1cca16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\WorkItemPanelController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\WorkItemPanelController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 901,
+            "modifiedTime": 1561149336960,
+            "changeTime": 1561150858422,
+            "contentHash": "a77cb510e6006f1bb8f6e4ea71003a98b5c390b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\WorkItemPanelController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\classes\\WorkItemPanelController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1561149336961,
+            "changeTime": 1561150858422,
+            "contentHash": "463a780dc1b11f5d645b2a49558ed28551f48927",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336964,
+            "changeTime": 1561150858423,
+            "contentHash": "ea8ee0b78e947102ec99d21489a1067ea3bc30b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336965,
+            "changeTime": 1561150858423,
+            "contentHash": "1c74ba176b087da9c337aaed42c7ad34f92f4f92",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates\\WI_Email_to_contact.email",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates\\WI_Email_to_contact.email",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 508,
+            "modifiedTime": 1561149336964,
+            "changeTime": 1561150858422,
+            "contentHash": "87899852902566f187d0c7aedf83811c7bd47dfc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates\\WI_Email_to_contact.email-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates\\WI_Email_to_contact.email-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 396,
+            "modifiedTime": 1561149336965,
+            "changeTime": 1561150858422,
+            "contentHash": "59dbd1db9ab755808e2e9a1c1f2f256cb671f5c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates.emailFolder-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\email\\WI_Email_Templates.emailFolder-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1561149336963,
+            "changeTime": 1561150858423,
+            "contentHash": "d1b735d3f18c576db9ea821c696c8a98e808c212",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336967,
+            "changeTime": 1561150858423,
+            "contentHash": "fd4124795d293fb858188bf77712d0f917d3ceea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8076,
+            "modifiedTime": 1561149336967,
+            "changeTime": 1561150858423,
+            "contentHash": "1e95a3811595bfe7b4975902978db9c2cace03e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages\\Work_Item_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages\\Work_Item_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3178,
+            "modifiedTime": 1561149336967,
+            "changeTime": 1561150858423,
+            "contentHash": "32ab17e1875abb7ffe72922d3733648bae9a10c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages\\Work_Manager_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\flexipages\\Work_Manager_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 523,
+            "modifiedTime": 1561149336968,
+            "changeTime": 1561150858423,
+            "contentHash": "77082039a98781dd64c781124cede9246a464d98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336972,
+            "changeTime": 1561150858424,
+            "contentHash": "e57b1950f6f25a0910f7be325312161366077e35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Action.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Action.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3528,
+            "modifiedTime": 1561149336969,
+            "changeTime": 1561150858423,
+            "contentHash": "7296b393912875d7001796b57915f5d8303e0d51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Default.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Default.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2951,
+            "modifiedTime": 1561149336970,
+            "changeTime": 1561150858424,
+            "contentHash": "5ff7f09ccc3021010769d4a609dcfe09954ef710",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Fix.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Fix.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3528,
+            "modifiedTime": 1561149336971,
+            "changeTime": 1561150858424,
+            "contentHash": "d6387146492b63102913579b867e2033d29f8fb3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Idea.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\layouts\\Work_Item__c-Work Item Idea.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3528,
+            "modifiedTime": 1561149336972,
+            "changeTime": 1561150858424,
+            "contentHash": "b12136f526b28006fbcfecd538b6ab7270083b4a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336974,
+            "changeTime": 1561150858424,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337006,
+            "changeTime": 1561150858431,
+            "contentHash": "7c123565066c690da60456633972600abc4bf043",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336975,
+            "changeTime": 1561150858425,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336980,
+            "changeTime": 1561150858425,
+            "contentHash": "be887cf005425460c6c020a6d95232b460f7b457",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 779,
+            "modifiedTime": 1561149336976,
+            "changeTime": 1561150858424,
+            "contentHash": "862d933a1ce8d08977214bcab53a22a93b789a3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 973,
+            "modifiedTime": 1561149336977,
+            "changeTime": 1561150858424,
+            "contentHash": "3d837c6442bd1bd811ea52cffd91924bf452ac53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 427,
+            "modifiedTime": 1561149336978,
+            "changeTime": 1561150858424,
+            "contentHash": "03a312d8d72eead51a03cde9ea44d25b5818f2ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 345,
+            "modifiedTime": 1561149336978,
+            "changeTime": 1561150858425,
+            "contentHash": "27c7165d232bc5193f51d0736cfc20ffbe4f905c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 394,
+            "modifiedTime": 1561149336979,
+            "changeTime": 1561150858425,
+            "contentHash": "7e4f01b050085f7aa1dbdb463e8646c9356f522a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1125,
+            "modifiedTime": 1561149336980,
+            "changeTime": 1561150858425,
+            "contentHash": "3475059515890ad12201c280a772ccadd809f057",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 969,
+            "modifiedTime": 1561149336981,
+            "changeTime": 1561150858425,
+            "contentHash": "5926c17c5326e31972e39ca33007ac61e5d39d3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149336983,
+            "changeTime": 1561150858428,
+            "contentHash": "47adfd5ffb5b99db19f7f5b167792192778dbb7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4998,
+            "modifiedTime": 1561149336982,
+            "changeTime": 1561150858425,
+            "contentHash": "aec29ba1b78eb3f4fe30c20a52c7e7bce542318c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337005,
+            "changeTime": 1561150858428,
+            "contentHash": "99a67e03fc86259a9667cff41e77f750dc357921",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1561149336984,
+            "changeTime": 1561150858425,
+            "contentHash": "57136529569e818c6c7e1d41fcb515d2f80a6621",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1561149336985,
+            "changeTime": 1561150858425,
+            "contentHash": "b1505ba6eaab38600e9faa96cc9016abe04edb65",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1561149336986,
+            "changeTime": 1561150858426,
+            "contentHash": "f28a6d31a9c4b92b6c2585b0095763b3309f2c4e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1561149336986,
+            "changeTime": 1561150858426,
+            "contentHash": "b8d343cf4ffe6890fd7e5b06148a5772c07a3ea3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1561149336987,
+            "changeTime": 1561150858426,
+            "contentHash": "edc7848a5bfa75f14a6e69ef93874fda083d2d6e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1561149336988,
+            "changeTime": 1561150858426,
+            "contentHash": "a968dcf72d4739ad4d372f175004fef8018f4319",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1561149336989,
+            "changeTime": 1561150858426,
+            "contentHash": "9329aa8a81fcb301652178deb8e75487ad0c4beb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1561149336990,
+            "changeTime": 1561150858426,
+            "contentHash": "3ce847ba7bf918544a210d1f5f2db551fa7f04de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1561149336991,
+            "changeTime": 1561150858426,
+            "contentHash": "c37d517a74d93d8a12a2edeaa761e3bb00fcd8d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1561149336991,
+            "changeTime": 1561150858426,
+            "contentHash": "ef6483feeca8d8a846bd11841959ed7170e1b20e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1561149336992,
+            "changeTime": 1561150858426,
+            "contentHash": "7d4146adae6e5674f023366acb1c65d25c851e64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1561149336993,
+            "changeTime": 1561150858427,
+            "contentHash": "25ee8a3fb64e8de0fa7233e1d10e5d9823f738ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1561149336994,
+            "changeTime": 1561150858427,
+            "contentHash": "2fab6cdb4eb1e4062b4d3f7fe4b69d5523097bb2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\IndividualId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\IndividualId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 231,
+            "modifiedTime": 1561149336994,
+            "changeTime": 1561150858427,
+            "contentHash": "8cc16ff96b16e3c5b125b7d1cddee456531d28a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1561149336995,
+            "changeTime": 1561150858427,
+            "contentHash": "d259680afeb61a4c49142d0f2224bf4d2d865a63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Languages__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 381,
+            "modifiedTime": 1561149336996,
+            "changeTime": 1561150858427,
+            "contentHash": "9ebcf0f8e29e4e99721496578ce9683e116aa70e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 163,
+            "modifiedTime": 1561149336997,
+            "changeTime": 1561150858427,
+            "contentHash": "38a458d58423b2331f0c427f269fb7249fe67df0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 162,
+            "modifiedTime": 1561149336997,
+            "changeTime": 1561150858427,
+            "contentHash": "f8961a7749a30894d3797e7f1d18d635697bdb0e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 231,
+            "modifiedTime": 1561149336998,
+            "changeTime": 1561150858427,
+            "contentHash": "a5b5f22efd3f1822dcc35c7f1420cbc46e0f285c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Level__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 972,
+            "modifiedTime": 1561149336999,
+            "changeTime": 1561150858427,
+            "contentHash": "90d4620831f3c106726541ae8c53a4fa156ab8f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1561149337000,
+            "changeTime": 1561150858427,
+            "contentHash": "5a4c59093fd759caa9e05abda7025439f397b8a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1561149337000,
+            "changeTime": 1561150858427,
+            "contentHash": "22b903f9046aa5fd30ac4d15a46f0121977bb65b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1561149337001,
+            "changeTime": 1561150858427,
+            "contentHash": "a348762e6f28525be0a04e0d0cefbeab5ce254ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1561149337002,
+            "changeTime": 1561150858427,
+            "contentHash": "4a7a6bfe5702c0148a26b194c104d70ef6389374",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1561149337003,
+            "changeTime": 1561150858428,
+            "contentHash": "bbdbb514300529959b7af670253c32aa87fa82e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1561149337004,
+            "changeTime": 1561150858428,
+            "contentHash": "b7d412be3216cb9efc01a1a73b1be18ada7a928e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1561149337004,
+            "changeTime": 1561150858428,
+            "contentHash": "b19da99a12a24159f0bb108f6ba8c50b1ee89310",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1561149337005,
+            "changeTime": 1561150858428,
+            "contentHash": "955a67e6259d9ac43b64ddddbc2646205611fdf4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1561149337006,
+            "changeTime": 1561150858428,
+            "contentHash": "6ecbf332b299f07eb04966cf450f814b82a4bf55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337023,
+            "changeTime": 1561150858431,
+            "contentHash": "e22d77fbde828eae08f58382802f4f66335967b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337008,
+            "changeTime": 1561150858429,
+            "contentHash": "2fc659a5ed850c31f779c794a1249c9b42b919fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\compactLayouts\\Work_Item_Compact.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\compactLayouts\\Work_Item_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 301,
+            "modifiedTime": 1561149337008,
+            "changeTime": 1561150858428,
+            "contentHash": "bb95f7259f0153f52912aa81a8024ce91136b877",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337016,
+            "changeTime": 1561150858430,
+            "contentHash": "c5906f29cd72cc5e1489b0c7f0df15732db0efd2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Assigned_To__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Assigned_To__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 620,
+            "modifiedTime": 1561149337009,
+            "changeTime": 1561150858429,
+            "contentHash": "aebf81a04097d5949384fc4f5cac5a2d437667bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 328,
+            "modifiedTime": 1561149337010,
+            "changeTime": 1561150858429,
+            "contentHash": "8feb1b010a24a597491b4437011a7ba47b003646",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Difficulty_Level__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Difficulty_Level__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1950,
+            "modifiedTime": 1561149337011,
+            "changeTime": 1561150858429,
+            "contentHash": "6e4c4786769b344526d81857d584fdbd54d903ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 323,
+            "modifiedTime": 1561149337012,
+            "changeTime": 1561150858429,
+            "contentHash": "735e8845ddafe7cff1e834b6ad2e3491b1c40f9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Estimated_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Estimated_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1561149337013,
+            "changeTime": 1561150858429,
+            "contentHash": "87f4151a3b5fc1e495f526ff37d9bb080c611ff0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 327,
+            "modifiedTime": 1561149337014,
+            "changeTime": 1561150858429,
+            "contentHash": "96d9b1304b8d061c437c05769b0ae4010b7e155b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1161,
+            "modifiedTime": 1561149337015,
+            "changeTime": 1561150858429,
+            "contentHash": "28163c92a9b0d2715b38dd01259859b8828a9f53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Title__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1561149337015,
+            "changeTime": 1561150858430,
+            "contentHash": "8198d3235bf652d9a2bead09e9d11b7a7b8dbe44",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 980,
+            "modifiedTime": 1561149337016,
+            "changeTime": 1561150858430,
+            "contentHash": "04b87d2537e1d2c1b1ae286adbbebc0b964eb7a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337018,
+            "changeTime": 1561150858430,
+            "contentHash": "06d75fa8265f71a81f0076e43691d9d051bf93df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1561149337017,
+            "changeTime": 1561150858430,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\listViews\\Standard.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\listViews\\Standard.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 437,
+            "modifiedTime": 1561152185753,
+            "changeTime": 1561152185753,
+            "contentHash": "0650f69df6b4262ec338af4386ab8cfb7b597961",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337022,
+            "changeTime": 1561150858430,
+            "contentHash": "aa09f2f4efd362a5183c047bb66ee5d1a6540734",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Action_Work_Item.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Action_Work_Item.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2296,
+            "modifiedTime": 1561149337019,
+            "changeTime": 1561150858430,
+            "contentHash": "d77ccf627f4428e3597d203c5e39b05329b141f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Fix_Work_Item.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Fix_Work_Item.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2290,
+            "modifiedTime": 1561149337021,
+            "changeTime": 1561150858430,
+            "contentHash": "0534f1894d3a6c44a0a7e3fa1bd6f879f024958d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Idea_Work_Item.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Idea_Work_Item.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2292,
+            "modifiedTime": 1561149337022,
+            "changeTime": 1561150858430,
+            "contentHash": "4771d1903f15568858063c2ffdba4c7eb6165950",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Work_Item.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\recordTypes\\Work_Item.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2356,
+            "modifiedTime": 1561149337023,
+            "changeTime": 1561150858430,
+            "contentHash": "878134729af2c4a210b37961939f5b7f064fbde7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\validationRules",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337023,
+            "changeTime": 1561150858431,
+            "contentHash": "6a0b3c620ef6cb99b0a639c02446605e3c5cb08c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\validationRules\\Type_field_after_creation_lock.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\validationRules\\Type_field_after_creation_lock.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1561149337024,
+            "changeTime": 1561150858431,
+            "contentHash": "90770777f8505bceb8ed2732111d283120b54aaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\Work_Item__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\objects\\Work_Item__c\\Work_Item__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2296,
+            "modifiedTime": 1561149337007,
+            "changeTime": 1561150858431,
+            "contentHash": "818d24ead353e1464209a4e9ffef40e6e22e9e07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337024,
+            "changeTime": 1561150858431,
+            "contentHash": "8636739fa6bf99459c757fba3b94e8e7666b75c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\permissionsets\\Work_Manager_App.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\permissionsets\\Work_Manager_App.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2174,
+            "modifiedTime": 1561149337025,
+            "changeTime": 1561150858431,
+            "contentHash": "a4fc28228b3e96c7edb5978c83608dcde2523adf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337044,
+            "changeTime": 1561150858432,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24782,
+            "modifiedTime": 1561149337029,
+            "changeTime": 1561150858431,
+            "contentHash": "c7cd71e3989da80459926b8ac14911d37b9cf5eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9574,
+            "modifiedTime": 1561149337031,
+            "changeTime": 1561150858431,
+            "contentHash": "0c740ad79030b08becbc5a36d0f498e7a68207c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9574,
+            "modifiedTime": 1561149337032,
+            "changeTime": 1561150858432,
+            "contentHash": "0c740ad79030b08becbc5a36d0f498e7a68207c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9924,
+            "modifiedTime": 1561149337050,
+            "changeTime": 1561150858432,
+            "contentHash": "456bab95d500cec670104ff6172f67a580f98bdf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337053,
+            "changeTime": 1561150858432,
+            "contentHash": "a4e97d52e84a53b689531060472ec001b1183fd5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337057,
+            "changeTime": 1561150858432,
+            "contentHash": "f387dd9952f2ca397cc42240dcdee681f8255783",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder\\ContactsDoneItemsReport.report-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder\\ContactsDoneItemsReport.report-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10963,
+            "modifiedTime": 1561152185753,
+            "changeTime": 1561152185753,
+            "contentHash": "e635a246c1e011d47f4da42b5157d17044738fb4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder\\Overdue_Work_Items_Qty.report-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder\\Overdue_Work_Items_Qty.report-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 887,
+            "modifiedTime": 1561149337057,
+            "changeTime": 1561150858432,
+            "contentHash": "748bf9707bc0f76c6f6822299da76767a233e491",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder.reportFolder-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\reports\\WorkManagerPackageFolder.reportFolder-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 351,
+            "modifiedTime": 1561152031305,
+            "changeTime": 1561152031305,
+            "contentHash": "26aca5d8c968a30e3943753192e6a57ae19dae24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337059,
+            "changeTime": 1561150858433,
+            "contentHash": "90932a93346f2fb5d7f01c5951571fa66ff4bed9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\tabs\\Work_Item_Panel.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\tabs\\Work_Item_Panel.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 275,
+            "modifiedTime": 1561149337059,
+            "changeTime": 1561150858433,
+            "contentHash": "9a094aae5a7e2eb94702382ec5151f9afcd35d0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\tabs\\Work_Item__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\tabs\\Work_Item__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1561149337059,
+            "changeTime": 1561150858433,
+            "contentHash": "960fe725932b581cb28ea7e7658b822dde8d00f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\workflows",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\workflows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561149337061,
+            "changeTime": 1561150858433,
+            "contentHash": "d2e2ad227ed769a64921c95d8b4cba7f963bd606",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\workflows\\Work_Item__c.workflow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal\\force-app\\main\\default\\workflows\\Work_Item__c.workflow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5096,
+            "modifiedTime": 1561149337062,
+            "changeTime": 1561150858433,
+            "contentHash": "55b199382f442290346a7846717f7058841fd519",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\cestol\\WorkManagerFinal",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\cestol\\WorkManagerFinal",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561150893773,
+            "changeTime": 1561150893773,
+            "contentHash": "8963c2c68e566ec0bf50e9cc93fab4d37c2826db",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
