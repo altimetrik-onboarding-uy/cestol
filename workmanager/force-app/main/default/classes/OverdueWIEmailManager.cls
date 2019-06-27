@@ -1,15 +1,25 @@
 global class OverdueWIEmailManager {
     
-    global static void sendMail(String addresses, String subject, String body) {
+    //Class modified since previous version was not working for multiple users due to incorrect usage of setToAddresses().
+    
+    global static void sendMail(List<User> addresses, String subject, String body) {
         
-        Messaging.SingleEmailMessage mail = new Messaging.SingleEmailMessage();
+        Messaging.SingleEmailMessage[] emails = new Messaging.SingleEmailMessage[0];
         
-        String[] toAddresses = new String[] {addresses};
+        Messaging.SingleEmailMessage email = new Messaging.SingleEmailMessage();
+        
+        for(User u : addresses)
+        {
+            String[] toAddresses = new String[] {u.Email};
+                email.setToAddresses(toAddresses);
             
-        mail.setToAddresses(toAddresses);
-        mail.setSubject(subject);
-        mail.setPlainTextBody(body);
-        Messaging.sendEmail(new Messaging.SingleEmailMessage[] { mail });
+            email.setSubject(subject);
+            email.setPlainTextBody(body);
+            
+            emails.add(email);
+        }
+        
+        Messaging.sendEmail(emails);
     }
     
 }

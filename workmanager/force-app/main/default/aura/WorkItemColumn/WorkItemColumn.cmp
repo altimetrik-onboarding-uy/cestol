@@ -11,7 +11,14 @@
                     title="{!v.columnStatus+' Work Items:'}">
     </lightning:card>
     
-    <aura:iteration items="{!v.workItems}" var="workItem">
-        <c:WorkItemCard cardStatus="{!v.columnStatus}" workItem="{!workItem}"/>
-    </aura:iteration>
+    <aura:if isTrue="{!not(empty(v.workItems))}">
+        <aura:iteration items="{!v.workItems}" var="workItem">
+            <c:WorkItemCard cardStatus="{!v.columnStatus}" workItem="{!workItem}"/>
+        </aura:iteration>
+        <aura:set attribute="else">
+            <lightning:card class="slds-p-horizontal_small slds-align_absolute-center" 
+                            title="No results.">
+            </lightning:card>
+        </aura:set>
+    </aura:if>
 </aura:component>
