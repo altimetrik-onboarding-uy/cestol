@@ -25,7 +25,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>
-                <field>Estimated_Resolution_Date__c</field>
+                <field>Estimated_Date__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
